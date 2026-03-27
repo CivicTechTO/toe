@@ -1,35 +1,37 @@
+from open_event_feed.event_item import EventItem
+
 class AbstractScraper:
-    name = "abstract_scraper"
+    name = ""
     start_urls = []
 
     def parse(self, response):
-        event_htmls = self.get_all_events(reponse)
+        event_htmls = self.get_all_events(response)
         for e in event_htmls:
             yield self.event_html_to_object(e)
 
-    def get_start_date(event_html):
+    def get_start_date(self, event_html):
         """
         @param event_html: html object of a single event
         @return: datetime object of start date
         """
         raise NotImplementedError
 
-    def get_event_name(event_html):
+    def get_event_title(self, event_html):
         """
         @param event_html: html object of a single event
         @return: string of event name/title
         """
         raise NotImplementedError
 
-    def get_event_organizer(event_html):
+    def get_event_organizer(self, event_html):
         """
         @param event_html: html object of a single event
         @return: string of the name of event organizer/venue
         """
         raise NotImplementedError
 
-    def get_event_url(event_html):
-       """
+    def get_event_url(self, event_html):
+        """
         @param event_html: html object of a single event
         @return: string of the event url. Unique per event
         """
@@ -40,11 +42,14 @@ class AbstractScraper:
         @param reponse: scrapy response object
         @return: array of html selectors
         """
-        raise NoteImplementedError
+        raise NotImplementedError
 
     def event_html_to_object(self, event_html):
-        loader = ItemLoader(item=EventItem(), response=event_html)
-        loader.add_value("name", self.get_event_name(event_html))
-        loader.add_value("url", self.get_event_url(event_html))
-        loader.add_value("organizer", self.get_event_organizer(event_html))
-        loader.add_value("start_date", self.get_start_date(event_html))
+        return EventItem(
+            title=self.get_event_title(event_html),
+            link=self.get_event_url(event_html),
+            organizer_link=self.ORGANIZER_LINK,
+            organizer_name=self.ORGANIZER_NAME,
+            start_datetime=self.get_start_date(event_html)
+        )
+
