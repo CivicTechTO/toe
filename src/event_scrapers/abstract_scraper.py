@@ -1,6 +1,7 @@
 from open_event_feed.event_item import EventItem
+import scrapy
 
-class AbstractScraper:
+class AbstractScraper(scrapy.Spider):
     name = ""
     start_urls = []
 

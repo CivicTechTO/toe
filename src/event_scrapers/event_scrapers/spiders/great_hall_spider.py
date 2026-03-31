@@ -37,8 +37,6 @@ class PhoenixSpider(scrapy.Spider):
         # Combine into one string
         datetime_str = f"{date_str} {time_str}"
         # Example: "Fri Mar 27 2026 10:00 pm"
-
-        print(datetime_str)
         # Parse into datetime
         return datetime.datetime.strptime(datetime_str, "%a %b %d %Y %I:%M %p")
 
