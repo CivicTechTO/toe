@@ -5,359 +5,7 @@
       <vevent>
         <properties>
           <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-06-18T20:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Chloe Star</text>
-          </summary>
-          <url>
-            <uri>https://tixr.com/e/190322</uri>
-          </url>
-          <organizer>
-            <cal-address>https://horseshoetavern.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>Horseshoe Tavern</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Chloe Star-https://tixr.com/e/190322-2026-06-18T20:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-06-22T20:30:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Horseshoe Presents: Meredith Moon June Residency</text>
-          </summary>
-          <url>
-            <uri>https://tixr.com/e/188981</uri>
-          </url>
-          <organizer>
-            <cal-address>https://horseshoetavern.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>Horseshoe Tavern</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Horseshoe Presents: Meredith Moon June Residency-https://tixr.com/e/188981-2026-06-22T20:30:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-04T20:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>The Strike: No Time To Waste Tour</text>
-          </summary>
-          <url>
-            <uri>https://tixr.com/e/181923</uri>
-          </url>
-          <organizer>
-            <cal-address>https://horseshoetavern.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>Horseshoe Tavern</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>The Strike: No Time To Waste Tour-https://tixr.com/e/181923-2026-07-04T20:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-03T18:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>WHISPR with Liv Gains</text>
-          </summary>
-          <url>
-            <uri>https://tixr.com/e/193846</uri>
-          </url>
-          <organizer>
-            <cal-address>https://horseshoetavern.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>Horseshoe Tavern</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>WHISPR with Liv Gains-https://tixr.com/e/193846-2026-07-03T18:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-06-19T20:30:00</date-time>
-          </dtstart>
-          <summary>
-            <text>High Flyer | Evening Brunch | Mallory</text>
-          </summary>
-          <url>
-            <uri>https://tixr.com/e/192144</uri>
-          </url>
-          <organizer>
-            <cal-address>https://horseshoetavern.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>Horseshoe Tavern</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>High Flyer | Evening Brunch | Mallory-https://tixr.com/e/192144-2026-06-19T20:30:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-06-21T15:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Paul Anthony's CASH - The Life and Music of Johnny Cash</text>
-          </summary>
-          <url>
-            <uri>https://tixr.com/e/187464</uri>
-          </url>
-          <organizer>
-            <cal-address>https://horseshoetavern.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>Horseshoe Tavern</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Paul Anthony's CASH - The Life and Music of Johnny Cash-https://tixr.com/e/187464-2026-06-21T15:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-01T20:30:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Bombargo</text>
-          </summary>
-          <url>
-            <uri>https://tixr.com/e/183341</uri>
-          </url>
-          <organizer>
-            <cal-address>https://horseshoetavern.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>Horseshoe Tavern</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Bombargo-https://tixr.com/e/183341-2026-07-01T20:30:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-10T20:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Daniel Greaves &amp; Ken Tizzard and Music for Goats with special guest Siobhan Bodrug</text>
-          </summary>
-          <url>
-            <uri>https://tixr.com/e/189814</uri>
-          </url>
-          <organizer>
-            <cal-address>https://horseshoetavern.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>Horseshoe Tavern</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Daniel Greaves &amp; Ken Tizzard and Music for Goats with special guest Siobhan Bodrug-https://tixr.com/e/189814-2026-07-10T20:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-06-23T19:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Ryan Davis &amp; The Roadhouse Band</text>
-          </summary>
-          <url>
-            <uri>https://tixr.com/e/187465</uri>
-          </url>
-          <organizer>
-            <cal-address>https://horseshoetavern.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>Horseshoe Tavern</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Ryan Davis &amp; The Roadhouse Band-https://tixr.com/e/187465-2026-06-23T19:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-06-30T20:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Etran de L'Aïr</text>
-          </summary>
-          <url>
-            <uri>https://tixr.com/e/190151</uri>
-          </url>
-          <organizer>
-            <cal-address>https://horseshoetavern.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>Horseshoe Tavern</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Etran de L'Aïr-https://tixr.com/e/190151-2026-06-30T20:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-06-25T20:30:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Reverend Horton Heat - SOLD OUT: Tickets available at the door</text>
-          </summary>
-          <url>
-            <uri>https://tixr.com/e/187467</uri>
-          </url>
-          <organizer>
-            <cal-address>https://horseshoetavern.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>Horseshoe Tavern</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Reverend Horton Heat - SOLD OUT: Tickets available at the door-https://tixr.com/e/187467-2026-06-25T20:30:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
+            <date-time>2026-07-02T13:29:05Z</date-time>
           </dtstamp>
           <dtstart>
             <parameters>
@@ -389,7 +37,7 @@
       <vevent>
         <properties>
           <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
+            <date-time>2026-07-02T13:29:05Z</date-time>
           </dtstamp>
           <dtstart>
             <parameters>
@@ -397,45 +45,13 @@
                 <text>UTC</text>
               </tzid>
             </parameters>
-            <date-time>2026-06-29T20:30:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Horseshoe Presents: Meredith Moon June Residency</text>
-          </summary>
-          <url>
-            <uri>https://tixr.com/e/188982</uri>
-          </url>
-          <organizer>
-            <cal-address>https://horseshoetavern.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>Horseshoe Tavern</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Horseshoe Presents: Meredith Moon June Residency-https://tixr.com/e/188982-2026-06-29T20:30:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-06-24T20:30:00</date-time>
+            <date-time>2026-06-25T20:30:00</date-time>
           </dtstart>
           <summary>
             <text>Reverend Horton Heat - SOLD OUT: Tickets available at the door</text>
           </summary>
           <url>
-            <uri>https://tixr.com/e/187466</uri>
+            <uri>https://tixr.com/e/187467</uri>
           </url>
           <organizer>
             <cal-address>https://horseshoetavern.com/</cal-address>
@@ -446,14 +62,46 @@
             </parameters>
           </organizer>
           <uid>
-            <text>Reverend Horton Heat - SOLD OUT: Tickets available at the door-https://tixr.com/e/187466-2026-06-24T20:30:00</text>
+            <text>Reverend Horton Heat - SOLD OUT: Tickets available at the door-https://tixr.com/e/187467-2026-06-25T20:30:00</text>
           </uid>
         </properties>
       </vevent>
       <vevent>
         <properties>
           <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-06-27T20:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Slim Jim Phantom trio &amp; The Midnight Cowgirls with Nicholas Campbell</text>
+          </summary>
+          <url>
+            <uri>https://tixr.com/e/189620</uri>
+          </url>
+          <organizer>
+            <cal-address>https://horseshoetavern.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>Horseshoe Tavern</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Slim Jim Phantom trio &amp; The Midnight Cowgirls with Nicholas Campbell-https://tixr.com/e/189620-2026-06-27T20:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
           </dtstamp>
           <dtstart>
             <parameters>
@@ -485,39 +133,7 @@
       <vevent>
         <properties>
           <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-07T20:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>UNCOVERED:BREE BARTHA | FAST EYES | RICH FREED</text>
-          </summary>
-          <url>
-            <uri>https://tixr.com/e/195492</uri>
-          </url>
-          <organizer>
-            <cal-address>https://horseshoetavern.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>Horseshoe Tavern</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>UNCOVERED:BREE BARTHA | FAST EYES | RICH FREED-https://tixr.com/e/195492-2026-07-07T20:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
+            <date-time>2026-07-02T13:29:05Z</date-time>
           </dtstamp>
           <dtstart>
             <parameters>
@@ -549,7 +165,39 @@
       <vevent>
         <properties>
           <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-06-21T15:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Paul Anthony's CASH - The Life and Music of Johnny Cash</text>
+          </summary>
+          <url>
+            <uri>https://tixr.com/e/187464</uri>
+          </url>
+          <organizer>
+            <cal-address>https://horseshoetavern.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>Horseshoe Tavern</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Paul Anthony's CASH - The Life and Music of Johnny Cash-https://tixr.com/e/187464-2026-06-21T15:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
           </dtstamp>
           <dtstart>
             <parameters>
@@ -581,7 +229,391 @@
       <vevent>
         <properties>
           <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-06-23T19:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Ryan Davis &amp; The Roadhouse Band</text>
+          </summary>
+          <url>
+            <uri>https://tixr.com/e/187465</uri>
+          </url>
+          <organizer>
+            <cal-address>https://horseshoetavern.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>Horseshoe Tavern</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Ryan Davis &amp; The Roadhouse Band-https://tixr.com/e/187465-2026-06-23T19:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-06-29T20:30:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Horseshoe Presents: Meredith Moon June Residency</text>
+          </summary>
+          <url>
+            <uri>https://tixr.com/e/188982</uri>
+          </url>
+          <organizer>
+            <cal-address>https://horseshoetavern.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>Horseshoe Tavern</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Horseshoe Presents: Meredith Moon June Residency-https://tixr.com/e/188982-2026-06-29T20:30:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-06-22T20:30:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Horseshoe Presents: Meredith Moon June Residency</text>
+          </summary>
+          <url>
+            <uri>https://tixr.com/e/188981</uri>
+          </url>
+          <organizer>
+            <cal-address>https://horseshoetavern.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>Horseshoe Tavern</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Horseshoe Presents: Meredith Moon June Residency-https://tixr.com/e/188981-2026-06-22T20:30:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-07T20:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>UNCOVERED:BREE BARTHA | FAST EYES | RICH FREED</text>
+          </summary>
+          <url>
+            <uri>https://tixr.com/e/195492</uri>
+          </url>
+          <organizer>
+            <cal-address>https://horseshoetavern.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>Horseshoe Tavern</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>UNCOVERED:BREE BARTHA | FAST EYES | RICH FREED-https://tixr.com/e/195492-2026-07-07T20:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-10T20:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Daniel Greaves &amp; Ken Tizzard and Music for Goats with special guest Siobhan Bodrug</text>
+          </summary>
+          <url>
+            <uri>https://tixr.com/e/189814</uri>
+          </url>
+          <organizer>
+            <cal-address>https://horseshoetavern.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>Horseshoe Tavern</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Daniel Greaves &amp; Ken Tizzard and Music for Goats with special guest Siobhan Bodrug-https://tixr.com/e/189814-2026-07-10T20:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-06-18T20:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Chloe Star</text>
+          </summary>
+          <url>
+            <uri>https://tixr.com/e/190322</uri>
+          </url>
+          <organizer>
+            <cal-address>https://horseshoetavern.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>Horseshoe Tavern</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Chloe Star-https://tixr.com/e/190322-2026-06-18T20:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-03T20:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>WHISPR with Liv Gains</text>
+          </summary>
+          <url>
+            <uri>https://tixr.com/e/193846</uri>
+          </url>
+          <organizer>
+            <cal-address>https://horseshoetavern.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>Horseshoe Tavern</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>WHISPR with Liv Gains-https://tixr.com/e/193846-2026-07-03T20:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-06-30T20:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Etran de L'Aïr</text>
+          </summary>
+          <url>
+            <uri>https://tixr.com/e/190151</uri>
+          </url>
+          <organizer>
+            <cal-address>https://horseshoetavern.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>Horseshoe Tavern</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Etran de L'Aïr-https://tixr.com/e/190151-2026-06-30T20:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-01T20:30:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Bombargo</text>
+          </summary>
+          <url>
+            <uri>https://tixr.com/e/183341</uri>
+          </url>
+          <organizer>
+            <cal-address>https://horseshoetavern.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>Horseshoe Tavern</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Bombargo-https://tixr.com/e/183341-2026-07-01T20:30:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-04T19:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>The Strike: No Time To Waste Tour</text>
+          </summary>
+          <url>
+            <uri>https://tixr.com/e/181923</uri>
+          </url>
+          <organizer>
+            <cal-address>https://horseshoetavern.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>Horseshoe Tavern</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>The Strike: No Time To Waste Tour-https://tixr.com/e/181923-2026-07-04T19:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-04T20:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>The Strike: No Time To Waste Tour</text>
+          </summary>
+          <url>
+            <uri>https://tixr.com/e/181923</uri>
+          </url>
+          <organizer>
+            <cal-address>https://horseshoetavern.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>Horseshoe Tavern</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>The Strike: No Time To Waste Tour-https://tixr.com/e/181923-2026-07-04T20:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-06-19T20:30:00</date-time>
+          </dtstart>
+          <summary>
+            <text>High Flyer | Evening Brunch | Mallory</text>
+          </summary>
+          <url>
+            <uri>https://tixr.com/e/192144</uri>
+          </url>
+          <organizer>
+            <cal-address>https://horseshoetavern.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>Horseshoe Tavern</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>High Flyer | Evening Brunch | Mallory-https://tixr.com/e/192144-2026-06-19T20:30:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
           </dtstamp>
           <dtstart>
             <parameters>
@@ -613,7 +645,7 @@
       <vevent>
         <properties>
           <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
+            <date-time>2026-07-02T13:29:05Z</date-time>
           </dtstamp>
           <dtstart>
             <parameters>
@@ -621,13 +653,13 @@
                 <text>UTC</text>
               </tzid>
             </parameters>
-            <date-time>2026-06-27T20:00:00</date-time>
+            <date-time>2026-07-03T18:00:00</date-time>
           </dtstart>
           <summary>
-            <text>Slim Jim Phantom trio &amp; The Midnight Cowgirls with Nicholas Campbell</text>
+            <text>WHISPR with Liv Gains</text>
           </summary>
           <url>
-            <uri>https://tixr.com/e/189620</uri>
+            <uri>https://tixr.com/e/193846</uri>
           </url>
           <organizer>
             <cal-address>https://horseshoetavern.com/</cal-address>
@@ -638,7 +670,39 @@
             </parameters>
           </organizer>
           <uid>
-            <text>Slim Jim Phantom trio &amp; The Midnight Cowgirls with Nicholas Campbell-https://tixr.com/e/189620-2026-06-27T20:00:00</text>
+            <text>WHISPR with Liv Gains-https://tixr.com/e/193846-2026-07-03T18:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-06-24T20:30:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Reverend Horton Heat - SOLD OUT: Tickets available at the door</text>
+          </summary>
+          <url>
+            <uri>https://tixr.com/e/187466</uri>
+          </url>
+          <organizer>
+            <cal-address>https://horseshoetavern.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>Horseshoe Tavern</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Reverend Horton Heat - SOLD OUT: Tickets available at the door-https://tixr.com/e/187466-2026-06-24T20:30:00</text>
           </uid>
         </properties>
       </vevent>

@@ -5,263 +5,7 @@
       <vevent>
         <properties>
           <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-06-18T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>GIZMO</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/v00095e95d17</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>GIZMO-https://link.dice.fm/v00095e95d17-2026-06-18T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-06-20T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>GOETIA</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/Wd15eb574aaf</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>GOETIA-https://link.dice.fm/Wd15eb574aaf-2026-06-20T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-10-08T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>GARRET T. WILLIE</text>
-          </summary>
-          <url>
-            <uri>https://www.facebook.com/events/919472580653810</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>GARRET T. WILLIE-https://www.facebook.com/events/919472580653810-2026-10-08T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-12T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>YOUBET</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/k65cdb564a16</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>YOUBET-https://link.dice.fm/k65cdb564a16-2026-07-12T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2027-06-11T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>NXNE 2026</text>
-          </summary>
-          <url>
-            <uri>https://www.showpass.com/nxne-2026-baby-g-thurs-june-11</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>NXNE 2026-https://www.showpass.com/nxne-2026-baby-g-thurs-june-11-2027-06-11T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-06-27T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>LUST: A KINKY DANCE PARTY</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/n720ce50dba2</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>LUST: A KINKY DANCE PARTY-https://link.dice.fm/n720ce50dba2-2026-06-27T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2027-06-24T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>HUMP DAY BUMP REDUX</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/W8922c0ceaa7</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>HUMP DAY BUMP REDUX-https://link.dice.fm/W8922c0ceaa7-2027-06-24T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-08-02T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>RUSHIL</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/L644e01ec00a</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>RUSHIL-https://link.dice.fm/L644e01ec00a-2026-08-02T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
+            <date-time>2026-07-02T13:29:05Z</date-time>
           </dtstamp>
           <dtstart>
             <parameters>
@@ -293,199 +37,7 @@
       <vevent>
         <properties>
           <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-10T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Adore Magazine 001 Relaunch</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/f90320ab8f8c</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Adore Magazine 001 Relaunch-https://link.dice.fm/f90320ab8f8c-2026-07-10T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-03T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>SPEAKER SPLITTER - A HARD STYLE RAVE</text>
-          </summary>
-          <url>
-            <uri>https://www.eventbrite.com/e/1990148506757?aff=oddtdtcreator</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>SPEAKER SPLITTER - A HARD STYLE RAVE-https://www.eventbrite.com/e/1990148506757?aff=oddtdtcreator-2026-07-03T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-08-20T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>VALUE SELECT</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/Ud5643f99a3f</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>VALUE SELECT-https://link.dice.fm/Ud5643f99a3f-2026-08-20T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-08-27T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>MARTY O'REILLY</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/Qd5bccfa5613</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>MARTY O'REILLY-https://link.dice.fm/Qd5bccfa5613-2026-08-27T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2027-06-12T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>KERAM</text>
-          </summary>
-          <url>
-            <uri>https://www.ticketweb.ca/event/keram-w-kicksie-the-the-baby-g-tickets/14928893</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>KERAM-https://www.ticketweb.ca/event/keram-w-kicksie-the-the-baby-g-tickets/14928893-2027-06-12T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-18T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>CHINESE MEDICINE</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/V7546c469e22</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>CHINESE MEDICINE-https://link.dice.fm/V7546c469e22-2026-07-18T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
+            <date-time>2026-07-02T13:29:05Z</date-time>
           </dtstamp>
           <dtstart>
             <parameters>
@@ -517,775 +69,7 @@
       <vevent>
         <properties>
           <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-13T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>BIT DEPTH</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/H892e4538dcb</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>BIT DEPTH-https://link.dice.fm/H892e4538dcb-2026-07-13T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2027-06-10T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>NXNE 2026</text>
-          </summary>
-          <url>
-            <uri>https://www.showpass.com/nxne-2026-baby-g-weds-june-10</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>NXNE 2026-https://www.showpass.com/nxne-2026-baby-g-weds-june-10-2027-06-10T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-09-08T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>SABABA 5</text>
-          </summary>
-          <url>
-            <uri>https://admitone.com/events/sababa-5-toronto-166481</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>SABABA 5-https://admitone.com/events/sababa-5-toronto-166481-2026-09-08T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-06-23T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>CHINESE AMERICAN BEAR</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/l7f31a8fb196</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>CHINESE AMERICAN BEAR-https://link.dice.fm/l7f31a8fb196-2026-06-23T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-09-13T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>SHINER</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/K3666eb75296</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>SHINER-https://link.dice.fm/K3666eb75296-2026-09-13T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-19T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>STYROFOAM WINOS</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/r5d472071a93</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>STYROFOAM WINOS-https://link.dice.fm/r5d472071a93-2026-07-19T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-09-19T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>SHEARLING</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/Eacc9b802aae</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>SHEARLING-https://link.dice.fm/Eacc9b802aae-2026-09-19T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-06-28T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>LEONA HELL</text>
-          </summary>
-          <url>
-            <uri>https://www.newfriendsdiy.com/event-details-registration/leona-hell-a-recorded-dawn-and-always-body-nest-foxgloves</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>LEONA HELL-https://www.newfriendsdiy.com/event-details-registration/leona-hell-a-recorded-dawn-and-always-body-nest-foxgloves-2026-06-28T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-09-16T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>GREEN-HOUSE</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/qe467a3b8f36</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>GREEN-HOUSE-https://link.dice.fm/qe467a3b8f36-2026-09-16T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2027-06-09T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>BEERS &amp; QUEERS</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/P7b8c57de393</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>BEERS &amp; QUEERS-https://link.dice.fm/P7b8c57de393-2027-06-09T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-10-18T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>IAN SWEET</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/g392d6c5ecd8</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>IAN SWEET-https://link.dice.fm/g392d6c5ecd8-2026-10-18T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2027-06-06T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>ALEJANDRO ARANDA</text>
-          </summary>
-          <url>
-            <uri>https://www.ticketmaster.ca/event/10006478DF29F075</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>ALEJANDRO ARANDA-https://www.ticketmaster.ca/event/10006478DF29F075-2027-06-06T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-09-24T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>SECOND SUMMER FESTIVAL</text>
-          </summary>
-          <url>
-            <uri>https://secondsummerfest.com/buy-tickets/</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>SECOND SUMMER FESTIVAL-https://secondsummerfest.com/buy-tickets/-2026-09-24T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-30T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>CORY HANSON</text>
-          </summary>
-          <url>
-            <uri>https://bit.ly/CoryHanson-YYZ</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>CORY HANSON-https://bit.ly/CoryHanson-YYZ-2026-07-30T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2027-06-17T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>DINNER TIME</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/Gec990122d56</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>DINNER TIME-https://link.dice.fm/Gec990122d56-2027-06-17T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2027-06-13T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>BEAM ME UP</text>
-          </summary>
-          <url>
-            <uri>https://www.facebook.com/beammeupdisco</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>BEAM ME UP-https://www.facebook.com/beammeupdisco-2027-06-13T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-06-26T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>SOOK-YIN LEE 72RHR ALBUM RELEASE</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/l98be4d3208b</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>SOOK-YIN LEE 72RHR ALBUM RELEASE-https://link.dice.fm/l98be4d3208b-2026-06-26T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-22T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>YARD</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/h5f6689117a5</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>YARD-https://link.dice.fm/h5f6689117a5-2026-07-22T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2027-06-04T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>FAMILY MAN</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/Ke5cc604644f</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>FAMILY MAN-https://link.dice.fm/Ke5cc604644f-2027-06-04T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-04T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>DRONING</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/b0b385120081</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>DRONING-https://link.dice.fm/b0b385120081-2026-07-04T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-08-11T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>CASKET CASSETTE</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/ie70ea888725</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>CASKET CASSETTE-https://link.dice.fm/ie70ea888725-2026-08-11T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2027-06-05T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>ABSTRACT LIVE</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/j6333d01805c</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>ABSTRACT LIVE-https://link.dice.fm/j6333d01805c-2027-06-05T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2027-06-14T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Summer's Haus Season 2 Vol. S</text>
-          </summary>
-          <url>
-            <uri>https://www.universe.com/events/summers-haus-season-2-vol-2-tickets-TY4735</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Summer's Haus Season 2 Vol. S-https://www.universe.com/events/summers-haus-season-2-vol-2-tickets-TY4735-2027-06-14T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-06-19T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>FIRES IN THE DISTANCE</text>
-          </summary>
-          <url>
-            <uri>https://www.ticketweb.ca/event/fires-in-the-distance-the-baby-g-tickets/14825573</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>FIRES IN THE DISTANCE-https://www.ticketweb.ca/event/fires-in-the-distance-the-baby-g-tickets/14825573-2026-06-19T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
+            <date-time>2026-07-02T13:29:05Z</date-time>
           </dtstamp>
           <dtstart>
             <parameters>
@@ -1317,71 +101,7 @@
       <vevent>
         <properties>
           <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-09-29T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>THE TOXHARDS</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/Vcfc474fa0e7</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>THE TOXHARDS-https://link.dice.fm/Vcfc474fa0e7-2026-09-29T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-24T00:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>GLOVE</text>
-          </summary>
-          <url>
-            <uri>https://link.dice.fm/g00c36c8f0de</uri>
-          </url>
-          <organizer>
-            <cal-address>http://thebabyg.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Baby G</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>GLOVE-https://link.dice.fm/g00c36c8f0de-2026-07-24T00:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
+            <date-time>2026-07-02T13:29:05Z</date-time>
           </dtstamp>
           <dtstart>
             <parameters>
@@ -1413,7 +133,647 @@
       <vevent>
         <properties>
           <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2027-06-24T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>HUMP DAY BUMP REDUX</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/W8922c0ceaa7</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>HUMP DAY BUMP REDUX-https://link.dice.fm/W8922c0ceaa7-2027-06-24T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-09-29T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>THE TOXHARDS</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/Vcfc474fa0e7</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>THE TOXHARDS-https://link.dice.fm/Vcfc474fa0e7-2026-09-29T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-24T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>GLOVE</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/g00c36c8f0de</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>GLOVE-https://link.dice.fm/g00c36c8f0de-2026-07-24T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2027-06-06T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>ALEJANDRO ARANDA</text>
+          </summary>
+          <url>
+            <uri>https://www.ticketmaster.ca/event/10006478DF29F075</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>ALEJANDRO ARANDA-https://www.ticketmaster.ca/event/10006478DF29F075-2027-06-06T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-09-19T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>SHEARLING</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/Eacc9b802aae</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>SHEARLING-https://link.dice.fm/Eacc9b802aae-2026-09-19T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-08-11T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>CASKET CASSETTE</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/ie70ea888725</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>CASKET CASSETTE-https://link.dice.fm/ie70ea888725-2026-08-11T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2027-06-14T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Summer's Haus Season 2 Vol. S</text>
+          </summary>
+          <url>
+            <uri>https://www.universe.com/events/summers-haus-season-2-vol-2-tickets-TY4735</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Summer's Haus Season 2 Vol. S-https://www.universe.com/events/summers-haus-season-2-vol-2-tickets-TY4735-2027-06-14T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-06-27T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>LUST: A KINKY DANCE PARTY</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/n720ce50dba2</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>LUST: A KINKY DANCE PARTY-https://link.dice.fm/n720ce50dba2-2026-06-27T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-19T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>STYROFOAM WINOS</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/r5d472071a93</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>STYROFOAM WINOS-https://link.dice.fm/r5d472071a93-2026-07-19T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-22T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>YARD</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/h5f6689117a5</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>YARD-https://link.dice.fm/h5f6689117a5-2026-07-22T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-06-28T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>LEONA HELL</text>
+          </summary>
+          <url>
+            <uri>https://www.newfriendsdiy.com/event-details-registration/leona-hell-a-recorded-dawn-and-always-body-nest-foxgloves</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>LEONA HELL-https://www.newfriendsdiy.com/event-details-registration/leona-hell-a-recorded-dawn-and-always-body-nest-foxgloves-2026-06-28T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-08-02T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>RUSHIL</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/L644e01ec00a</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>RUSHIL-https://link.dice.fm/L644e01ec00a-2026-08-02T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2027-06-04T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>FAMILY MAN</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/Ke5cc604644f</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>FAMILY MAN-https://link.dice.fm/Ke5cc604644f-2027-06-04T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-10T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Adore Magazine 001 Relaunch</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/f90320ab8f8c</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Adore Magazine 001 Relaunch-https://link.dice.fm/f90320ab8f8c-2026-07-10T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-09-08T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>SABABA 5</text>
+          </summary>
+          <url>
+            <uri>https://admitone.com/events/sababa-5-toronto-166481</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>SABABA 5-https://admitone.com/events/sababa-5-toronto-166481-2026-09-08T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-09-13T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>SHINER</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/K3666eb75296</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>SHINER-https://link.dice.fm/K3666eb75296-2026-09-13T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-30T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>CORY HANSON</text>
+          </summary>
+          <url>
+            <uri>https://bit.ly/CoryHanson-YYZ</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>CORY HANSON-https://bit.ly/CoryHanson-YYZ-2026-07-30T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2027-06-11T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>NXNE 2026</text>
+          </summary>
+          <url>
+            <uri>https://www.showpass.com/nxne-2026-baby-g-thurs-june-11</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>NXNE 2026-https://www.showpass.com/nxne-2026-baby-g-thurs-june-11-2027-06-11T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2027-06-10T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>NXNE 2026</text>
+          </summary>
+          <url>
+            <uri>https://www.showpass.com/nxne-2026-baby-g-weds-june-10</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>NXNE 2026-https://www.showpass.com/nxne-2026-baby-g-weds-june-10-2027-06-10T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-03T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>SPEAKER SPLITTER - A HARD STYLE RAVE</text>
+          </summary>
+          <url>
+            <uri>https://www.eventbrite.com/e/1990148506757?aff=oddtdtcreator</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>SPEAKER SPLITTER - A HARD STYLE RAVE-https://www.eventbrite.com/e/1990148506757?aff=oddtdtcreator-2026-07-03T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
           </dtstamp>
           <dtstart>
             <parameters>
@@ -1445,7 +805,7 @@
       <vevent>
         <properties>
           <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
+            <date-time>2026-07-02T13:29:05Z</date-time>
           </dtstamp>
           <dtstart>
             <parameters>
@@ -1477,7 +837,423 @@
       <vevent>
         <properties>
           <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2027-06-13T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>BEAM ME UP</text>
+          </summary>
+          <url>
+            <uri>https://www.facebook.com/beammeupdisco</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>BEAM ME UP-https://www.facebook.com/beammeupdisco-2027-06-13T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-06-19T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>FIRES IN THE DISTANCE</text>
+          </summary>
+          <url>
+            <uri>https://www.ticketweb.ca/event/fires-in-the-distance-the-baby-g-tickets/14825573</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>FIRES IN THE DISTANCE-https://www.ticketweb.ca/event/fires-in-the-distance-the-baby-g-tickets/14825573-2026-06-19T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-06-18T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>GIZMO</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/v00095e95d17</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>GIZMO-https://link.dice.fm/v00095e95d17-2026-06-18T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-06-20T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>GOETIA</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/Wd15eb574aaf</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>GOETIA-https://link.dice.fm/Wd15eb574aaf-2026-06-20T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2027-06-26T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>SOOK-YIN LEE 72RHR ALBUM RELEASE</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/l98be4d3208b</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>SOOK-YIN LEE 72RHR ALBUM RELEASE-https://link.dice.fm/l98be4d3208b-2027-06-26T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-18T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>CHINESE MEDICINE</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/V7546c469e22</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>CHINESE MEDICINE-https://link.dice.fm/V7546c469e22-2026-07-18T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-09-24T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>SECOND SUMMER FESTIVAL</text>
+          </summary>
+          <url>
+            <uri>https://secondsummerfest.com/buy-tickets/</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>SECOND SUMMER FESTIVAL-https://secondsummerfest.com/buy-tickets/-2026-09-24T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-06-26T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>SOOK-YIN LEE 72RHR ALBUM RELEASE</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/l98be4d3208b</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>SOOK-YIN LEE 72RHR ALBUM RELEASE-https://link.dice.fm/l98be4d3208b-2026-06-26T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-06-24T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>HUMP DAY BUMP REDUX</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/W8922c0ceaa7</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>HUMP DAY BUMP REDUX-https://link.dice.fm/W8922c0ceaa7-2026-06-24T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2027-06-09T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>BEERS &amp; QUEERS</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/P7b8c57de393</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>BEERS &amp; QUEERS-https://link.dice.fm/P7b8c57de393-2027-06-09T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-08-20T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>VALUE SELECT</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/Ud5643f99a3f</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>VALUE SELECT-https://link.dice.fm/Ud5643f99a3f-2026-08-20T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-04T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>DRONING</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/b0b385120081</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>DRONING-https://link.dice.fm/b0b385120081-2026-07-04T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2027-06-05T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>ABSTRACT LIVE</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/j6333d01805c</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>ABSTRACT LIVE-https://link.dice.fm/j6333d01805c-2027-06-05T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
           </dtstamp>
           <dtstart>
             <parameters>
@@ -1509,7 +1285,7 @@
       <vevent>
         <properties>
           <dtstamp>
-            <date-time>2026-06-25T14:03:41Z</date-time>
+            <date-time>2026-07-02T13:29:05Z</date-time>
           </dtstamp>
           <dtstart>
             <parameters>
@@ -1517,13 +1293,13 @@
                 <text>UTC</text>
               </tzid>
             </parameters>
-            <date-time>2026-06-24T00:00:00</date-time>
+            <date-time>2026-08-27T00:00:00</date-time>
           </dtstart>
           <summary>
-            <text>HUMP DAY BUMP REDUX</text>
+            <text>MARTY O'REILLY</text>
           </summary>
           <url>
-            <uri>https://link.dice.fm/W8922c0ceaa7</uri>
+            <uri>https://link.dice.fm/Qd5bccfa5613</uri>
           </url>
           <organizer>
             <cal-address>http://thebabyg.com/</cal-address>
@@ -1534,7 +1310,327 @@
             </parameters>
           </organizer>
           <uid>
-            <text>HUMP DAY BUMP REDUX-https://link.dice.fm/W8922c0ceaa7-2026-06-24T00:00:00</text>
+            <text>MARTY O'REILLY-https://link.dice.fm/Qd5bccfa5613-2026-08-27T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2027-06-28T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>LEONA HELL</text>
+          </summary>
+          <url>
+            <uri>https://www.newfriendsdiy.com/event-details-registration/leona-hell-a-recorded-dawn-and-always-body-nest-foxgloves</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>LEONA HELL-https://www.newfriendsdiy.com/event-details-registration/leona-hell-a-recorded-dawn-and-always-body-nest-foxgloves-2027-06-28T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-10-18T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>IAN SWEET</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/g392d6c5ecd8</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>IAN SWEET-https://link.dice.fm/g392d6c5ecd8-2026-10-18T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-09-16T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>GREEN-HOUSE</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/qe467a3b8f36</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>GREEN-HOUSE-https://link.dice.fm/qe467a3b8f36-2026-09-16T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2027-06-17T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>DINNER TIME</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/Gec990122d56</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>DINNER TIME-https://link.dice.fm/Gec990122d56-2027-06-17T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-12T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>YOUBET</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/k65cdb564a16</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>YOUBET-https://link.dice.fm/k65cdb564a16-2026-07-12T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-10-08T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>GARRET T. WILLIE</text>
+          </summary>
+          <url>
+            <uri>https://www.facebook.com/events/919472580653810</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>GARRET T. WILLIE-https://www.facebook.com/events/919472580653810-2026-10-08T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2027-06-12T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>KERAM</text>
+          </summary>
+          <url>
+            <uri>https://www.ticketweb.ca/event/keram-w-kicksie-the-the-baby-g-tickets/14928893</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>KERAM-https://www.ticketweb.ca/event/keram-w-kicksie-the-the-baby-g-tickets/14928893-2027-06-12T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-13T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>BIT DEPTH</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/H892e4538dcb</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>BIT DEPTH-https://link.dice.fm/H892e4538dcb-2026-07-13T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2027-06-27T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>LUST: A KINKY DANCE PARTY</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/n720ce50dba2</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>LUST: A KINKY DANCE PARTY-https://link.dice.fm/n720ce50dba2-2027-06-27T00:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-07-02T13:29:05Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-06-23T00:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>CHINESE AMERICAN BEAR</text>
+          </summary>
+          <url>
+            <uri>https://link.dice.fm/l7f31a8fb196</uri>
+          </url>
+          <organizer>
+            <cal-address>http://thebabyg.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Baby G</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>CHINESE AMERICAN BEAR-https://link.dice.fm/l7f31a8fb196-2026-06-23T00:00:00</text>
           </uid>
         </properties>
       </vevent>
