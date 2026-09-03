@@ -5,1127 +5,7 @@
       <vevent>
         <properties>
           <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-04T17:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>idobi Radio Summer School</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/idobi-radio-summer-school/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>idobi Radio Summer School-https://thephoenixconcerttheatre.com/events/event/idobi-radio-summer-school/-2026-07-04T17:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-10-02T20:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Crvena Jabuka</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/crvena-jabuka-2/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Crvena Jabuka-https://thephoenixconcerttheatre.com/events/event/crvena-jabuka-2/-2026-10-02T20:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2027-06-19T19:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>SuperSonic – North America’s Tribute To Oasis</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/supersonic-north-americas-tribute-to-oasis-2/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>SuperSonic – North America’s Tribute To Oasis-https://thephoenixconcerttheatre.com/events/event/supersonic-north-americas-tribute-to-oasis-2/-2027-06-19T19:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-09-22T18:30:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Hammerfall</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/hammerfall/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Hammerfall-https://thephoenixconcerttheatre.com/events/event/hammerfall/-2026-09-22T18:30:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-08-30T19:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>The Red Jumpsuit Apparatus</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/the-red-jumpsuit-apparatus/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>The Red Jumpsuit Apparatus-https://thephoenixconcerttheatre.com/events/event/the-red-jumpsuit-apparatus/-2026-08-30T19:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-09-23T19:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>The Garden</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/the-garden/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>The Garden-https://thephoenixconcerttheatre.com/events/event/the-garden/-2026-09-23T19:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-09-05T22:30:00</date-time>
-          </dtstart>
-          <summary>
-            <text>The Official Anirudh XV Tour Afterparty</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/the-official-xv-tour-afterparty/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>The Official Anirudh XV Tour Afterparty-https://thephoenixconcerttheatre.com/events/event/the-official-xv-tour-afterparty/-2026-09-05T22:30:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-10-08T19:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Оксана Білозір (Oksana Bilozir)</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/%d0%be%d0%ba%d1%81%d0%b0%d0%bd%d0%b0-%d0%b1%d1%96%d0%bb%d0%be%d0%b7%d1%96%d1%80-oksana-bilozir/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Оксана Білозір (Oksana Bilozir)-https://thephoenixconcerttheatre.com/events/event/%d0%be%d0%ba%d1%81%d0%b0%d0%bd%d0%b0-%d0%b1%d1%96%d0%bb%d0%be%d0%b7%d1%96%d1%80-oksana-bilozir/-2026-10-08T19:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-25T20:30:00</date-time>
-          </dtstart>
-          <summary>
-            <text>FEVER After Dark: Summer of Love</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/fever-after-dark-summer-of-love/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>FEVER After Dark: Summer of Love-https://thephoenixconcerttheatre.com/events/event/fever-after-dark-summer-of-love/-2026-07-25T20:30:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-12T19:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Stove God Cooks – NEW DATE</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/stove-god-cooks-new-date/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Stove God Cooks – NEW DATE-https://thephoenixconcerttheatre.com/events/event/stove-god-cooks-new-date/-2026-07-12T19:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-08-21T19:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Swervedriver</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/swervedriver/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Swervedriver-https://thephoenixconcerttheatre.com/events/event/swervedriver/-2026-08-21T19:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-09-19T18:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>KAMELOT</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/kamelot-3/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>KAMELOT-https://thephoenixconcerttheatre.com/events/event/kamelot-3/-2026-09-19T18:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-08-08T22:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>DAAAM! The Hip Hop Party – Featuring Live THA ALKAHOLIKS</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/daaam-the-hip-hop-party-featuring-live-tha-alkaholiks/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>DAAAM! The Hip Hop Party – Featuring Live THA ALKAHOLIKS-https://thephoenixconcerttheatre.com/events/event/daaam-the-hip-hop-party-featuring-live-tha-alkaholiks/-2026-08-08T22:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-09-09T19:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Melanie C ~ SOLD OUT</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/melanie-c/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Melanie C ~ SOLD OUT-https://thephoenixconcerttheatre.com/events/event/melanie-c/-2026-09-09T19:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-08-02T22:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Jerk X Jollof: Toronto (Caribana Edition)</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/jerk-x-jollof-toronto-caribana-edition/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Jerk X Jollof: Toronto (Caribana Edition)-https://thephoenixconcerttheatre.com/events/event/jerk-x-jollof-toronto-caribana-edition/-2026-08-02T22:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-08-29T21:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>ANIME RAVE – Toronto</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/anime-rave-toronto/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>ANIME RAVE – Toronto-https://thephoenixconcerttheatre.com/events/event/anime-rave-toronto/-2026-08-29T21:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-30T19:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Wunderhorse</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/wunderhorse/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Wunderhorse-https://thephoenixconcerttheatre.com/events/event/wunderhorse/-2026-07-30T19:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-09-09T19:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Melanie C</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/melanie-c/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Melanie C-https://thephoenixconcerttheatre.com/events/event/melanie-c/-2026-09-09T19:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-08-20T19:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>boom 97.3 Boombox Live! w/ China Crisis, Big Country, The Icicle Works, The Vapors</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/boom-97-3-boom-box-live-w-china-crisis-big-country-the-icicle-works-the-vapors/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>boom 97.3 Boombox Live! w/ China Crisis, Big Country, The Icicle Works, The Vapors-https://thephoenixconcerttheatre.com/events/event/boom-97-3-boom-box-live-w-china-crisis-big-country-the-icicle-works-the-vapors/-2026-08-20T19:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-10-03T22:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>The Kink Coven Grand Fetish Ball</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/the-kink-coven-grand-fetish-ball/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>The Kink Coven Grand Fetish Ball-https://thephoenixconcerttheatre.com/events/event/the-kink-coven-grand-fetish-ball/-2026-10-03T22:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-10T19:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Digable Planets</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/digable-planets/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Digable Planets-https://thephoenixconcerttheatre.com/events/event/digable-planets/-2026-07-10T19:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-06-19T19:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>SuperSonic – North America’s Tribute To Oasis</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/supersonic-north-americas-tribute-to-oasis-2/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>SuperSonic – North America’s Tribute To Oasis-https://thephoenixconcerttheatre.com/events/event/supersonic-north-americas-tribute-to-oasis-2/-2026-06-19T19:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-09-25T19:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Mari Froes</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/mari-froes/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Mari Froes-https://thephoenixconcerttheatre.com/events/event/mari-froes/-2026-09-25T19:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-08-08T22:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>MOVED to DEC 11th – DAAAM! The Hip Hop Party – Featuring Live THA ALKAHOLIKS</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/daaam-the-hip-hop-party-featuring-live-tha-alkaholiks/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>MOVED to DEC 11th – DAAAM! The Hip Hop Party – Featuring Live THA ALKAHOLIKS-https://thephoenixconcerttheatre.com/events/event/daaam-the-hip-hop-party-featuring-live-tha-alkaholiks/-2026-08-08T22:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-06-26T21:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>boom 97.3 Totally G’80s Video Dance Party</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/boom-97-3-totally-g80s-video-dance-party/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>boom 97.3 Totally G’80s Video Dance Party-https://thephoenixconcerttheatre.com/events/event/boom-97-3-totally-g80s-video-dance-party/-2026-06-26T21:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-09-11T19:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>ADÉLA</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/adela/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>ADÉLA-https://thephoenixconcerttheatre.com/events/event/adela/-2026-09-11T19:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-08-01T20:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>FREETOWN COLLECTIVE</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/freetown-collective-2/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>FREETOWN COLLECTIVE-https://thephoenixconcerttheatre.com/events/event/freetown-collective-2/-2026-08-01T20:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-09-26T21:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Totally 2000’s Video Dance Party</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/totally-2000s-video-dance-party/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Totally 2000’s Video Dance Party-https://thephoenixconcerttheatre.com/events/event/totally-2000s-video-dance-party/-2026-09-26T21:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-10-09T20:30:00</date-time>
-          </dtstart>
-          <summary>
-            <text>REGGAE AMBASSADORS</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/reggae-ambassadors/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>REGGAE AMBASSADORS-https://thephoenixconcerttheatre.com/events/event/reggae-ambassadors/-2026-10-09T20:30:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-09-18T19:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>CABARET VOLTAIRE</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/cabaret-voltaire/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>CABARET VOLTAIRE-https://thephoenixconcerttheatre.com/events/event/cabaret-voltaire/-2026-09-18T19:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-08-22T19:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>UNVEILED: ON DECK ~ The Spotlight Awaits</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/unveiled-on-deck-the-spotlight-awaits/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>UNVEILED: ON DECK ~ The Spotlight Awaits-https://thephoenixconcerttheatre.com/events/event/unveiled-on-deck-the-spotlight-awaits/-2026-08-22T19:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-09-17T18:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Hulvey</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/hulvey/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Hulvey-https://thephoenixconcerttheatre.com/events/event/hulvey/-2026-09-17T18:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-23T16:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Hatebreed – Summer Slaughter Tour 2026</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/hatebreed-summer-slaughter-tour-2026/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Hatebreed – Summer Slaughter Tour 2026-https://thephoenixconcerttheatre.com/events/event/hatebreed-summer-slaughter-tour-2026/-2026-07-23T16:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-06-25T19:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>Kokoroko</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/kokoroko/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>Kokoroko-https://thephoenixconcerttheatre.com/events/event/kokoroko/-2026-06-25T19:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-24T14:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>WRESTLEFEST TORONTO MAIN EVENT – LIVE SHOW &amp; OPEN MATS</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/wrestlefest-toronto-main-event-live-show-open-mats/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>WRESTLEFEST TORONTO MAIN EVENT – LIVE SHOW &amp; OPEN MATS-https://thephoenixconcerttheatre.com/events/event/wrestlefest-toronto-main-event-live-show-open-mats/-2026-07-24T14:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
+            <date-time>2026-09-03T15:27:59Z</date-time>
           </dtstamp>
           <dtstart>
             <parameters>
@@ -1157,7 +37,7 @@
       <vevent>
         <properties>
           <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
+            <date-time>2026-09-03T15:27:59Z</date-time>
           </dtstamp>
           <dtstart>
             <parameters>
@@ -1165,13 +45,13 @@
                 <text>UTC</text>
               </tzid>
             </parameters>
-            <date-time>2026-07-31T22:00:00</date-time>
+            <date-time>2026-09-25T19:00:00</date-time>
           </dtstart>
           <summary>
-            <text>SOCA vs DANCEHALL</text>
+            <text>Mari Froes</text>
           </summary>
           <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/soca-vs-dancehall-4/</uri>
+            <uri>https://thephoenixconcerttheatre.com/events/event/mari-froes/</uri>
           </url>
           <organizer>
             <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
@@ -1182,46 +62,14 @@
             </parameters>
           </organizer>
           <uid>
-            <text>SOCA vs DANCEHALL-https://thephoenixconcerttheatre.com/events/event/soca-vs-dancehall-4/-2026-07-31T22:00:00</text>
+            <text>Mari Froes-https://thephoenixconcerttheatre.com/events/event/mari-froes/-2026-09-25T19:00:00</text>
           </uid>
         </properties>
       </vevent>
       <vevent>
         <properties>
           <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
-          </dtstamp>
-          <dtstart>
-            <parameters>
-              <tzid>
-                <text>UTC</text>
-              </tzid>
-            </parameters>
-            <date-time>2026-07-18T20:00:00</date-time>
-          </dtstart>
-          <summary>
-            <text>SOULS OF MISCHIEF</text>
-          </summary>
-          <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/souls-of-mischief/</uri>
-          </url>
-          <organizer>
-            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
-            <parameters>
-              <cn>
-                <text>The Phoenix Concert Theatre</text>
-              </cn>
-            </parameters>
-          </organizer>
-          <uid>
-            <text>SOULS OF MISCHIEF-https://thephoenixconcerttheatre.com/events/event/souls-of-mischief/-2026-07-18T20:00:00</text>
-          </uid>
-        </properties>
-      </vevent>
-      <vevent>
-        <properties>
-          <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
+            <date-time>2026-09-03T15:27:59Z</date-time>
           </dtstamp>
           <dtstart>
             <parameters>
@@ -1253,7 +101,7 @@
       <vevent>
         <properties>
           <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
+            <date-time>2026-09-03T15:27:59Z</date-time>
           </dtstamp>
           <dtstart>
             <parameters>
@@ -1261,13 +109,13 @@
                 <text>UTC</text>
               </tzid>
             </parameters>
-            <date-time>2026-09-16T19:00:00</date-time>
+            <date-time>2026-10-04T19:00:00</date-time>
           </dtstart>
           <summary>
-            <text>Willow Avalon</text>
+            <text>NERVY</text>
           </summary>
           <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/willow-avalon/</uri>
+            <uri>https://thephoenixconcerttheatre.com/events/event/nervy/</uri>
           </url>
           <organizer>
             <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
@@ -1278,14 +126,334 @@
             </parameters>
           </organizer>
           <uid>
-            <text>Willow Avalon-https://thephoenixconcerttheatre.com/events/event/willow-avalon/-2026-09-16T19:00:00</text>
+            <text>NERVY-https://thephoenixconcerttheatre.com/events/event/nervy/-2026-10-04T19:00:00</text>
           </uid>
         </properties>
       </vevent>
       <vevent>
         <properties>
           <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-10-09T20:30:00</date-time>
+          </dtstart>
+          <summary>
+            <text>REGGAE AMBASSADORS</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/reggae-ambassadors/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>REGGAE AMBASSADORS-https://thephoenixconcerttheatre.com/events/event/reggae-ambassadors/-2026-10-09T20:30:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-09-09T19:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Melanie C ~ SOLD OUT</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/melanie-c/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Melanie C ~ SOLD OUT-https://thephoenixconcerttheatre.com/events/event/melanie-c/-2026-09-09T19:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-26T18:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>FEVER At Dusk</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/fever-at-dusk/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>FEVER At Dusk-https://thephoenixconcerttheatre.com/events/event/fever-at-dusk/-2026-07-26T18:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-09-09T19:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Melanie C</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/melanie-c/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Melanie C-https://thephoenixconcerttheatre.com/events/event/melanie-c/-2026-09-09T19:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-06-25T19:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Kokoroko</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/kokoroko/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Kokoroko-https://thephoenixconcerttheatre.com/events/event/kokoroko/-2026-06-25T19:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-09-18T19:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>CABARET VOLTAIRE</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/cabaret-voltaire/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>CABARET VOLTAIRE-https://thephoenixconcerttheatre.com/events/event/cabaret-voltaire/-2026-09-18T19:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-10-03T22:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>The Kink Coven Grand Fetish Ball</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/the-kink-coven-grand-fetish-ball/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>The Kink Coven Grand Fetish Ball-https://thephoenixconcerttheatre.com/events/event/the-kink-coven-grand-fetish-ball/-2026-10-03T22:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-09-05T22:30:00</date-time>
+          </dtstart>
+          <summary>
+            <text>The Official Anirudh XV Tour Afterparty</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/the-official-xv-tour-afterparty/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>The Official Anirudh XV Tour Afterparty-https://thephoenixconcerttheatre.com/events/event/the-official-xv-tour-afterparty/-2026-09-05T22:30:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-09-23T19:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>The Garden</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/the-garden/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>The Garden-https://thephoenixconcerttheatre.com/events/event/the-garden/-2026-09-23T19:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-08-22T19:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>UNVEILED: ON DECK ~ The Spotlight Awaits</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/unveiled-on-deck-the-spotlight-awaits/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>UNVEILED: ON DECK ~ The Spotlight Awaits-https://thephoenixconcerttheatre.com/events/event/unveiled-on-deck-the-spotlight-awaits/-2026-08-22T19:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
           </dtstamp>
           <dtstart>
             <parameters>
@@ -1317,7 +485,7 @@
       <vevent>
         <properties>
           <dtstamp>
-            <date-time>2026-08-27T21:26:08Z</date-time>
+            <date-time>2026-09-03T15:27:59Z</date-time>
           </dtstamp>
           <dtstart>
             <parameters>
@@ -1325,13 +493,13 @@
                 <text>UTC</text>
               </tzid>
             </parameters>
-            <date-time>2026-07-26T18:00:00</date-time>
+            <date-time>2026-09-11T19:00:00</date-time>
           </dtstart>
           <summary>
-            <text>FEVER At Dusk</text>
+            <text>ADÉLA ~ SOLD OUT</text>
           </summary>
           <url>
-            <uri>https://thephoenixconcerttheatre.com/events/event/fever-at-dusk/</uri>
+            <uri>https://thephoenixconcerttheatre.com/events/event/adela/</uri>
           </url>
           <organizer>
             <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
@@ -1342,7 +510,935 @@
             </parameters>
           </organizer>
           <uid>
-            <text>FEVER At Dusk-https://thephoenixconcerttheatre.com/events/event/fever-at-dusk/-2026-07-26T18:00:00</text>
+            <text>ADÉLA ~ SOLD OUT-https://thephoenixconcerttheatre.com/events/event/adela/-2026-09-11T19:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-06-19T19:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>SuperSonic – North America’s Tribute To Oasis</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/supersonic-north-americas-tribute-to-oasis-2/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>SuperSonic – North America’s Tribute To Oasis-https://thephoenixconcerttheatre.com/events/event/supersonic-north-americas-tribute-to-oasis-2/-2026-06-19T19:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-24T14:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>WRESTLEFEST TORONTO MAIN EVENT – LIVE SHOW &amp; OPEN MATS</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/wrestlefest-toronto-main-event-live-show-open-mats/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>WRESTLEFEST TORONTO MAIN EVENT – LIVE SHOW &amp; OPEN MATS-https://thephoenixconcerttheatre.com/events/event/wrestlefest-toronto-main-event-live-show-open-mats/-2026-07-24T14:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-09-11T19:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>ADÉLA</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/adela/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>ADÉLA-https://thephoenixconcerttheatre.com/events/event/adela/-2026-09-11T19:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-10T19:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Digable Planets</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/digable-planets/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Digable Planets-https://thephoenixconcerttheatre.com/events/event/digable-planets/-2026-07-10T19:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-08-29T21:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>ANIME RAVE – Toronto</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/anime-rave-toronto/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>ANIME RAVE – Toronto-https://thephoenixconcerttheatre.com/events/event/anime-rave-toronto/-2026-08-29T21:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-08-30T19:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>The Red Jumpsuit Apparatus</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/the-red-jumpsuit-apparatus/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>The Red Jumpsuit Apparatus-https://thephoenixconcerttheatre.com/events/event/the-red-jumpsuit-apparatus/-2026-08-30T19:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-08-02T22:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Jerk X Jollof: Toronto (Caribana Edition)</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/jerk-x-jollof-toronto-caribana-edition/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Jerk X Jollof: Toronto (Caribana Edition)-https://thephoenixconcerttheatre.com/events/event/jerk-x-jollof-toronto-caribana-edition/-2026-08-02T22:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-31T22:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>SOCA vs DANCEHALL</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/soca-vs-dancehall-4/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>SOCA vs DANCEHALL-https://thephoenixconcerttheatre.com/events/event/soca-vs-dancehall-4/-2026-07-31T22:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-25T20:30:00</date-time>
+          </dtstart>
+          <summary>
+            <text>FEVER After Dark: Summer of Love</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/fever-after-dark-summer-of-love/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>FEVER After Dark: Summer of Love-https://thephoenixconcerttheatre.com/events/event/fever-after-dark-summer-of-love/-2026-07-25T20:30:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-08-01T20:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>FREETOWN COLLECTIVE</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/freetown-collective-2/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>FREETOWN COLLECTIVE-https://thephoenixconcerttheatre.com/events/event/freetown-collective-2/-2026-08-01T20:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-12T19:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Stove God Cooks – NEW DATE</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/stove-god-cooks-new-date/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Stove God Cooks – NEW DATE-https://thephoenixconcerttheatre.com/events/event/stove-god-cooks-new-date/-2026-07-12T19:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-04T17:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>idobi Radio Summer School</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/idobi-radio-summer-school/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>idobi Radio Summer School-https://thephoenixconcerttheatre.com/events/event/idobi-radio-summer-school/-2026-07-04T17:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-10-08T19:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Оксана Білозір (Oksana Bilozir)</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/%d0%be%d0%ba%d1%81%d0%b0%d0%bd%d0%b0-%d0%b1%d1%96%d0%bb%d0%be%d0%b7%d1%96%d1%80-oksana-bilozir/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Оксана Білозір (Oksana Bilozir)-https://thephoenixconcerttheatre.com/events/event/%d0%be%d0%ba%d1%81%d0%b0%d0%bd%d0%b0-%d0%b1%d1%96%d0%bb%d0%be%d0%b7%d1%96%d1%80-oksana-bilozir/-2026-10-08T19:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-10-02T20:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Crvena Jabuka</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/crvena-jabuka-2/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Crvena Jabuka-https://thephoenixconcerttheatre.com/events/event/crvena-jabuka-2/-2026-10-02T20:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-18T20:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>SOULS OF MISCHIEF</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/souls-of-mischief/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>SOULS OF MISCHIEF-https://thephoenixconcerttheatre.com/events/event/souls-of-mischief/-2026-07-18T20:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-08-08T22:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>DAAAM! The Hip Hop Party – Featuring Live THA ALKAHOLIKS</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/daaam-the-hip-hop-party-featuring-live-tha-alkaholiks/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>DAAAM! The Hip Hop Party – Featuring Live THA ALKAHOLIKS-https://thephoenixconcerttheatre.com/events/event/daaam-the-hip-hop-party-featuring-live-tha-alkaholiks/-2026-08-08T22:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-30T19:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Wunderhorse</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/wunderhorse/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Wunderhorse-https://thephoenixconcerttheatre.com/events/event/wunderhorse/-2026-07-30T19:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-10-11T17:30:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Despised Icon</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/despised-icon/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Despised Icon-https://thephoenixconcerttheatre.com/events/event/despised-icon/-2026-10-11T17:30:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-06-26T21:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>boom 97.3 Totally G’80s Video Dance Party</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/boom-97-3-totally-g80s-video-dance-party/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>boom 97.3 Totally G’80s Video Dance Party-https://thephoenixconcerttheatre.com/events/event/boom-97-3-totally-g80s-video-dance-party/-2026-06-26T21:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-09-22T18:30:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Hammerfall</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/hammerfall/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Hammerfall-https://thephoenixconcerttheatre.com/events/event/hammerfall/-2026-09-22T18:30:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-09-26T21:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Totally 2000’s Video Dance Party</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/totally-2000s-video-dance-party/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Totally 2000’s Video Dance Party-https://thephoenixconcerttheatre.com/events/event/totally-2000s-video-dance-party/-2026-09-26T21:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-09-17T18:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Hulvey</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/hulvey/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Hulvey-https://thephoenixconcerttheatre.com/events/event/hulvey/-2026-09-17T18:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-07-23T16:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Hatebreed – Summer Slaughter Tour 2026</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/hatebreed-summer-slaughter-tour-2026/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Hatebreed – Summer Slaughter Tour 2026-https://thephoenixconcerttheatre.com/events/event/hatebreed-summer-slaughter-tour-2026/-2026-07-23T16:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-09-19T18:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>KAMELOT</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/kamelot-3/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>KAMELOT-https://thephoenixconcerttheatre.com/events/event/kamelot-3/-2026-09-19T18:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-08-21T19:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Swervedriver</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/swervedriver/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Swervedriver-https://thephoenixconcerttheatre.com/events/event/swervedriver/-2026-08-21T19:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-08-08T22:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>MOVED to DEC 11th – DAAAM! The Hip Hop Party – Featuring Live THA ALKAHOLIKS</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/daaam-the-hip-hop-party-featuring-live-tha-alkaholiks/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>MOVED to DEC 11th – DAAAM! The Hip Hop Party – Featuring Live THA ALKAHOLIKS-https://thephoenixconcerttheatre.com/events/event/daaam-the-hip-hop-party-featuring-live-tha-alkaholiks/-2026-08-08T22:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-08-20T19:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>boom 97.3 Boombox Live! w/ China Crisis, Big Country, The Icicle Works, The Vapors</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/boom-97-3-boom-box-live-w-china-crisis-big-country-the-icicle-works-the-vapors/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>boom 97.3 Boombox Live! w/ China Crisis, Big Country, The Icicle Works, The Vapors-https://thephoenixconcerttheatre.com/events/event/boom-97-3-boom-box-live-w-china-crisis-big-country-the-icicle-works-the-vapors/-2026-08-20T19:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2026-09-16T19:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>Willow Avalon</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/willow-avalon/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>Willow Avalon-https://thephoenixconcerttheatre.com/events/event/willow-avalon/-2026-09-16T19:00:00</text>
+          </uid>
+        </properties>
+      </vevent>
+      <vevent>
+        <properties>
+          <dtstamp>
+            <date-time>2026-09-03T15:27:59Z</date-time>
+          </dtstamp>
+          <dtstart>
+            <parameters>
+              <tzid>
+                <text>UTC</text>
+              </tzid>
+            </parameters>
+            <date-time>2027-06-19T19:00:00</date-time>
+          </dtstart>
+          <summary>
+            <text>SuperSonic – North America’s Tribute To Oasis</text>
+          </summary>
+          <url>
+            <uri>https://thephoenixconcerttheatre.com/events/event/supersonic-north-americas-tribute-to-oasis-2/</uri>
+          </url>
+          <organizer>
+            <cal-address>https://thephoenixconcerttheatre.com/</cal-address>
+            <parameters>
+              <cn>
+                <text>The Phoenix Concert Theatre</text>
+              </cn>
+            </parameters>
+          </organizer>
+          <uid>
+            <text>SuperSonic – North America’s Tribute To Oasis-https://thephoenixconcerttheatre.com/events/event/supersonic-north-americas-tribute-to-oasis-2/-2027-06-19T19:00:00</text>
           </uid>
         </properties>
       </vevent>
